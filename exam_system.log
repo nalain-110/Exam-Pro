@@ -1,0 +1,11 @@
+2026-05-02 15:01:46,008 | INFO | Database ready.
+2026-05-02 15:01:46,019 | INFO | Registered: demo@test.com
+2026-05-02 15:01:46,024 | INFO | Exam saved: Python Fundamentals
+2026-05-02 15:01:46,035 | INFO | Exam saved: Data Structures
+2026-05-02 15:01:46,035 | INFO | Seed data loaded.
+2026-05-02 15:02:26,805 | INFO | Database ready.
+2026-05-02 15:03:02,399 | INFO | Registered: rameesha_student@exampro.local
+2026-05-02 18:06:58,447 | INFO | Database ready.
+2026-05-02 18:08:13,736 | INFO | Registered: student_ali@exampro.local
+2026-05-02 18:09:38,967 | INFO | Teacher registered: mr_teacher
+2026-05-02 18:15:05,543 | INFO | Result saved: student=3 exam=1 score=10/12
